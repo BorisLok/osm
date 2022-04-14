@@ -1,0 +1,110 @@
+countries:
+  - country: Japan
+    country_code: JP
+    latitude: 35.652832
+    longitude: 139.839478
+    cities:
+      - region: Tokyo
+        name: Tokyo
+      - region: Hokkaido
+        name: Hokkaido
+      - region: Ibaraki Prefecture
+        name: Ibaraki
+      - region: Saitama
+        name: Saitama
+      - region: Chiba
+        name: Chiba
+      - region: Kanagawa Prefecture
+        name: Kanagawa
+      - region: Yamanashi Prefecture
+        name: Yamanashi
+      - region: Nagano Prefecture
+        name: Nagano
+      - region: Gifu Prefecture
+        name: Gifu
+      - region: Shizuoka Prefecture
+        name: Shizuoka
+      - region: Aichi prefecture
+        name: Aichi
+      - region: Shiga Prefecture
+        name: Shiga
+      - region: Kyoto
+        name: Kyoto
+      - region: Osaka Prefecture
+        name: Osaka
+      - region: Hyogo prefecture
+        name: Hyogo
+      - region: Okayama Prefecture
+        name: Okayama
+      - region: Hiroshima
+        name: Hiroshima
+      - region: Ehime Prefecture
+        name: Ehime
+      - region: Nagasaki Prefecture
+        name: Nagasaki
+      - region: Okinawa Prefecture
+        name: Okinawa
+  - country: Taiwan
+    country_code: TW
+    latitude: 25.105497
+    longitude: 121.597366
+    cities:
+      - region: Taipei
+        name: Taipei
+      - region: New Taipei
+        name: New Taipei
+      - region: Taoyuan
+        name: Taoyuan
+      - region: Hsinchu
+        name: Hsinchu
+      - region: Miaoli
+        name: Miaoli
+      - region: Taichung
+        name: Taichung
+      - region: Changhua
+        name: Changhua
+      - region: Yunlin
+        name: Yunlin
+      - region: Chiayi
+        name: Chiayi
+      - region: Tainan
+        name: Tainan
+      - region: Kaohsiung
+        name: Kaohsiung
+      - region: Pingtung
+        name: Pingtung
+      - region: Penghu
+        name: Penghu
+      - region: Keelung
+        name: Keelung
+      - region: Matsu
+        name: Matsu
+      - region: Yilan
+        name: Yilan
+      - region: Nantou
+        name: Nantou
+      - region: Hualien
+        name: Hualien
+      - region: Taitung
+        name: Taitung
+      - region: Kinmen
+        name: Kinmen
+  - country: United States
+    country_code: US
+    latitude: 39.741550
+    longitude: -90.256218
+    cities:
+      - region: Florida
+        name: Florida
+      - region: Colorado
+        name: Colorado
+      - region: California
+        name: California
+      - region: Arizona
+        name: Arizona
+      - region: Oregon
+        name: Oregon
+      - region: New York
+        name: New York
+      - region: Washington
+        name: Washington
